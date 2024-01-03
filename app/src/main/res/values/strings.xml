@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizAPP</string>
+    <string name="textv_iew">TextView</string>
+    <string name="False_button_text">False</string>
+    <string name="true_button_text">True</string>
+    <string name="todo">TODO</string>
+    <string name="next_text_button">next</string>
+    <string name="prev_button_text">"Previous "</string>
+    <string name="prev_button_text2">Prev</string>
+    <string name="imageview">imageView</string>
+</resources>
